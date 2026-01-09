@@ -1,0 +1,31 @@
+matchup,round,predicted_winner,predicted_win_probability,actual_winner
+Arthur Rinderknech vs Alexander Zverev,R128,Alexander Zverev,74.5%,Arthur Rinderknech
+Ethan Quinn vs Henry Searle,R128,Henry Searle,54.6%,Ethan Quinn
+Carlos Alcaraz vs Fabio Fognini,R128,Carlos Alcaraz,95.5%,Carlos Alcaraz
+Taylor Fritz vs Giovanni Mpetshi Perricard,R128,Taylor Fritz,81.6%,Taylor Fritz
+Kamil Majchrzak vs Matteo Berrettini,R128,Matteo Berrettini,80.4%,Kamil Majchrzak
+Nicolas Jarry vs Holger Rune,R128,Holger Rune,85.1%,Nicolas Jarry
+Nuno Borges vs Francisco Cerundolo,R128,Francisco Cerundolo,66.2%,Nuno Borges
+Arthur Fery vs Alexei Popyrin,R128,Alexei Popyrin,85.0%,Arthur Fery
+Novak Djokovic vs Alexandre Muller,R128,Novak Djokovic,90.3%,Novak Djokovic
+Pedro Martinez vs George Loffhagen,R128,Pedro Martinez,58.8%,Pedro Martinez
+Jannik Sinner vs Luca Nardi,R128,Jannik Sinner,98.5%,Jannik Sinner
+Jesper De Jong vs Christopher Eubanks,R128,Christopher Eubanks,54.1%,Jesper De Jong
+Taylor Fritz vs Gabriel Diallo,R64,Taylor Fritz,88.3%,Taylor Fritz
+Joao Fonseca vs Jenson Brooksby,R64,Jenson Brooksby,52.8%,Joao Fonseca
+Kamil Majchrzak vs Ethan Quinn,R64,Kamil Majchrzak,71.0%,Kamil Majchrzak
+Jannik Sinner vs Aleksandar Vukic,R64,Jannik Sinner,95.9%,Jannik Sinner
+Taylor Fritz vs Alejandro Davidovich Fokina,R32,Taylor Fritz,82.1%,Taylor Fritz
+Kamil Majchrzak vs Arthur Rinderknech,R32,Arthur Rinderknech,52.4%,Kamil Majchrzak
+Jannik Sinner vs Pedro Martinez,R32,Jannik Sinner,97.5%,Jannik Sinner
+Lorenzo Sonego vs Brandon Nakashima,R32,Brandon Nakashima,67.8%,Lorenzo Sonego
+Novak Djokovic vs Miomir Kecmanovic,R32,Novak Djokovic,88.6%,Novak Djokovic
+Taylor Fritz vs Jordan Thompson,R16,Taylor Fritz,72.4%,Taylor Fritz
+Grigor Dimitrov vs Jannik Sinner,R16,Jannik Sinner,85.0%,Grigor Dimitrov
+Novak Djokovic vs Alex De Minaur,R16,Novak Djokovic,70.6%,Novak Djokovic
+Taylor Fritz vs Karen Khachanov,QF,Taylor Fritz,68.8%,Taylor Fritz
+Jannik Sinner vs Ben Shelton,QF,Jannik Sinner,92.7%,Jannik Sinner
+Novak Djokovic vs Flavio Cobolli,QF,Novak Djokovic,82.8%,Novak Djokovic
+Jannik Sinner vs Novak Djokovic,SF,Jannik Sinner,74.2%,Jannik Sinner
+Carlos Alcaraz vs Taylor Fritz,SF,Carlos Alcaraz,76.3%,Carlos Alcaraz
+Jannik Sinner vs Carlos Alcaraz,F,Jannik Sinner,58.0%,Jannik Sinner

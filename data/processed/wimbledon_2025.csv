@@ -1,0 +1,34 @@
+tourney_date,tourney_name,round,winner_name,loser_name,score
+20250630,Wimbledon,R128,Arthur Rinderknech,Alexander Zverev,7-6(3) 6-7(8) 6-3 6-7(5) 6-4
+20250630,Wimbledon,R128,Ethan Quinn,Henry Searle,4-6 6-2 7-6(11) 6-2
+20250630,Wimbledon,R128,Carlos Alcaraz,Fabio Fognini,7-5 6-7(5) 7-5 2-6 6-1
+20250630,Wimbledon,R128,Taylor Fritz,Giovanni Mpetshi Perricard,6-7(6) 6-7(8) 6-4 7-6(6) 6-4
+20250630,Wimbledon,R128,Kamil Majchrzak,Matteo Berrettini,4-6 6-2 6-4 5-7 6-3
+20250630,Wimbledon,R128,Oliver Tarvet,Leandro Riedi,6-4 6-4 6-4
+20250630,Wimbledon,R128,Nicolas Jarry,Holger Rune,4-6 4-6 7-5 6-3 6-4
+20250630,Wimbledon,R128,Nuno Borges,Francisco Cerundolo,4-6 6-3 7-6(5) 6-0
+20250630,Wimbledon,R128,Arthur Fery,Alexei Popyrin,6-4 6-1 4-6 6-4
+20250701,Wimbledon,R128,Novak Djokovic,Alexandre Muller,6-1 6-7(7) 6-2 6-2
+20250701,Wimbledon,R128,Pedro Martinez,George Loffhagen,2-6 6-2 6-4 6-2
+20250701,Wimbledon,R128,Jannik Sinner,Luca Nardi,6-4 6-3 6-0
+20250701,Wimbledon,R128,Jesper De Jong,Christopher Eubanks,6-3 6-7(5) 6-7(7) 6-3 7-6(3)
+20250701,Wimbledon,R128,Tommy Paul,Johannus Monday,6-4 6-4 6-2
+20250702,Wimbledon,R64,Carlos Alcaraz,Oliver Tarvet,6-1 6-4 6-4
+20250702,Wimbledon,R64,Taylor Fritz,Gabriel Diallo,3-6 6-3 7-6(0) 4-6 6-3
+20250702,Wimbledon,R64,Joao Fonseca,Jenson Brooksby,6-4 5-7 6-2 6-4
+20250702,Wimbledon,R64,Kamil Majchrzak,Ethan Quinn,6-1 6-4 6-3
+20250703,Wimbledon,R64,Jannik Sinner,Aleksandar Vukic,6-1 6-1 6-3
+20250704,Wimbledon,R32,Taylor Fritz,Alejandro Davidovich Fokina,6-4 6-3 6-7(5) 6-1
+20250704,Wimbledon,R32,Kamil Majchrzak,Arthur Rinderknech,6-3 7-6(4) 7-6(6)
+20250705,Wimbledon,R32,Jannik Sinner,Pedro Martinez,6-1 6-3 6-1
+20250705,Wimbledon,R32,Lorenzo Sonego,Brandon Nakashima,6-7(5) 7-6(8) 7-6(2) 3-6 7-6(3)
+20250705,Wimbledon,R32,Novak Djokovic,Miomir Kecmanovic,6-3 6-0 6-4
+20250706,Wimbledon,R16,Taylor Fritz,Jordan Thompson,6-1
+20250707,Wimbledon,R16,Grigor Dimitrov,Jannik Sinner,6-3 7-5
+20250707,Wimbledon,R16,Novak Djokovic,Alex De Minaur,1-6 6-4 6-4 6-4
+20250708,Wimbledon,QF,Taylor Fritz,Karen Khachanov,6-3 6-4 1-6 7-6(4)
+20250709,Wimbledon,QF,Jannik Sinner,Ben Shelton,7-6(2) 6-4 6-4
+20250709,Wimbledon,QF,Novak Djokovic,Flavio Cobolli,6-7(6) 6-2 7-5 6-4
+20250711,Wimbledon,SF,Jannik Sinner,Novak Djokovic,6-3 6-3 6-4
+20250711,Wimbledon,SF,Carlos Alcaraz,Taylor Fritz,6-4 5-7 6-3 7-6(6)
+20250713,Wimbledon,F,Jannik Sinner,Carlos Alcaraz,4-6 6-4 6-4 6-4

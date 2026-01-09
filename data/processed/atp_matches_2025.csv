@@ -1,0 +1,432 @@
+tourney_date,tourney_name,round,winner_name,loser_name,score
+20250101,Brisbane,R16,Grigor Dimitrov,Aleksandar Vukic,6-2 7-6(5)
+20250101,Hong Kong,R16,Arthur Fils,Zizou Bergs,7-6(7) 6-4
+20250101,United Cup,RR,Tomas Machac,Hubert Hurkacz,7-5 3-6 6-4
+20250102,Hong Kong,R16,Lorenzo Musetti,Gabriel Diallo,6-4 6-3
+20250102,Hong Kong,R16,Fabian Marozsan,Andrey Rublev,7-5 3-6 6-3
+20250102,Brisbane,R16,Giovanni Mpetshi Perricard,Frances Tiafoe,6-4 7-6(4)
+20250102,Brisbane,R16,Novak Djokovic,Gael Monfils,6-3 6-3
+20250102,United Cup,QF,Hubert Hurkacz,Billy Harris,7-6(3) 7-5
+20250103,United Cup,QF,Tomas Machac,Flavio Cobolli,6-1 6-2
+20250103,Brisbane,QF,Reilly Opelka,Novak Djokovic,7-6(6) 6-3
+20250103,Brisbane,QF,Jiri Lehecka,Nicolas Jarry,6-4 6-4
+20250103,Brisbane,QF,Giovanni Mpetshi Perricard,Jakub Mensik,7-5 7-6(5)
+20250103,Hong Kong,QF,Jaume Munar,Lorenzo Musetti,2-6 7-6(4) 7-5
+20250104,Brisbane,SF,Jiri Lehecka,Grigor Dimitrov,6-4
+20250104,Brisbane,SF,Reilly Opelka,Giovanni Mpetshi Perricard,6-3 7-6(4)
+20250104,United Cup,SF,Hubert Hurkacz,Alexander Shevchenko,6-3 6-2
+20250104,Canberra CH,F,Joao Fonseca,Ethan Quinn,6-4 6-4
+20250105,Brisbane,F,Jiri Lehecka,Reilly Opelka,
+20250105,United Cup,F,Taylor Fritz,Hubert Hurkacz,6-4 5-7 7-6(4)
+20250105,Hong Kong,F,Alexandre Muller,Kei Nishikori,2-6 6-1 6-3
+20250106,Australian Open,Q1,Lukas Neumayer,Elmer Moller,6-7(5) 6-3 6-4
+20250106,Adelaide,R32,Denis Shapovalov,Zhizhen Zhang,6-3 6-4
+20250106,Oeiras 1 CH,R32,Karue Sell,Robin Bertrand,6-2 6-3
+20250107,Australian Open,Q1,Dominik Koepfer,Ignacio Buse,2-6 6-3 7-6(5)
+20250108,Australian Open,Q2,Dalibor Svrcina,Khumoyun Sultanov,6-3 1-6 6-3
+20250108,Auckland,R16,Gael Monfils,Jan Lennard Struff,6-1 7-6(5)
+20250108,Auckland,R16,Nishesh Basavareddy,Alejandro Tabilo,6-4 5-7 6-4
+20250109,Auckland,R16,Jakub Mensik,Ben Shelton,7-6(2) 4-6 7-5
+20250109,Auckland,QF,Gael Monfils,Facundo Diaz Acosta,6-3 6-1
+20250110,Auckland,SF,Gael Monfils,Nishesh Basavareddy,7-6(5) 6-4
+20250111,Auckland,F,Gael Monfils,Zizou Bergs,6-3 6-4
+20250111,Adelaide,F,Felix Auger Aliassime,Sebastian Korda,6-3 3-6 6-1
+20250112,Australian Open,R128,Arthur Fils,Otto Virtanen,3-6 7-6(4) 6-4 6-4
+20250112,Australian Open,R128,Kei Nishikori,Thiago Monteiro,4-6 6-7(4) 7-5 6-2 6-3
+20250112,Australian Open,R128,Casper Ruud,Jaume Munar,6-3 1-6 7-5 2-6 6-1
+20250113,Australian Open,R128,Carlos Alcaraz,Alexander Shevchenko,6-1 7-5 6-1
+20250113,Australian Open,R128,Tommy Paul,Christopher Oconnell,6-2 3-6 6-1 6-7(5) 7-5
+20250113,Australian Open,R128,Jannik Sinner,Nicolas Jarry,7-6(2) 7-6(5) 6-1
+20250113,Australian Open,R128,Novak Djokovic,Nishesh Basavareddy,4-6 6-3 6-4 6-2
+20250113,Australian Open,R128,Alex Michelsen,Stefanos Tsitsipas,7-5 6-3 2-6 6-4
+20250114,Australian Open,R128,Karen Khachanov,Adrian Mannarino,7-6(5) 6-3 6-3
+20250114,Australian Open,R128,Alex De Minaur,Botic Van De Zandschulp,6-1 7-5 6-4
+20250114,Australian Open,R128,Lorenzo Musetti,Matteo Arnaldi,7-6(4) 4-6 7-6(5) 6-3
+20250114,Buenos Aires CH,R32,Juan Pablo Varillas,Juan Carlos Prado Angelo,6-7(4) 7-5 6-4
+20250114,Australian Open,R128,Hubert Hurkacz,Tallon Griekspoor,7-5 6-4 6-4
+20250114,Australian Open,R128,Joao Fonseca,Andrey Rublev,7-6(1) 6-3 7-6(5)
+20250114,Australian Open,R128,Daniil Medvedev,Kasidit Samrej,6-2 4-6 3-6 6-1 6-2
+20250114,Australian Open,R128,Taylor Fritz,Jenson Brooksby,6-2 6-0 6-3
+20250114,Australian Open,R128,Gael Monfils,Giovanni Mpetshi Perricard,7-6(7) 6-3 6-7(6) 6-7(5) 6-4
+20250114,Australian Open,R128,Hady Habib,Bu Yunchaokete,7-6(4) 6-4 7-6(6)
+20250115,Australian Open,R64,Alexander Zverev,Pedro Martinez,6-1 6-4 6-1
+20250115,Australian Open,R64,Jacob Fearnley,Arthur Cazaux,3-6 7-5 6-2 6-3
+20250115,Australian Open,R64,Carlos Alcaraz,Yoshihito Nishioka,6-0 6-1 6-4
+20250115,Australian Open,R64,Jakub Mensik,Casper Ruud,6-2 3-6 6-1 6-4
+20250115,Australian Open,R64,Tommy Paul,Kei Nishikori,6-7(3) 6-0 6-3 6-1
+20250115,Australian Open,R64,Ugo Humbert,Hady Habib,6-3 6-4 6-4
+20250116,Australian Open,R64,Miomir Kecmanovic,Hubert Hurkacz,6-4 6-4 6-2
+20250116,Australian Open,R64,Jannik Sinner,Tristan Schoolkate,4-6 6-4 6-1 6-3
+20250116,Australian Open,R64,Taylor Fritz,Cristian Garin,6-2 6-1 6-0
+20250116,Australian Open,R64,Lorenzo Sonego,Joao Fonseca,6-7(6) 6-3 6-1 3-6 6-3
+20250116,Australian Open,R64,Learner Tien,Daniil Medvedev,6-3 7-6(4) 6-7(8) 1-6 7-6(7)
+20250116,Australian Open,Q3,Jaime Faria,Mark Lajal,6-4 2-6 6-4
+20250116,Australian Open,R64,Gael Monfils,Daniel Altmaier,7-5 6-3 7-6(3)
+20250117,Australian Open,R32,Carlos Alcaraz,Nuno Borges,6-2 6-4 6-7(3) 6-2
+20250117,Australian Open,R32,Novak Djokovic,Tomas Machac,6-1 6-4 6-4
+20250117,Australian Open,R32,Learner Tien,Corentin Moutet,7-6(10) 6-3 6-3
+20250118,Australian Open,R32,Jannik Sinner,Marcos Giron,6-3 6-4 6-2
+20250118,Australian Open,R32,Ben Shelton,Lorenzo Musetti,6-3 3-6 6-4 7-6(5)
+20250118,Australian Open,R32,Alex Michelsen,Karen Khachanov,6-3 7-6(5) 6-2
+20250118,Australian Open,R32,Holger Rune,Miomir Kecmanovic,6-7(5) 6-3 4-6 6-4 6-4
+20250118,Australian Open,R32,Gael Monfils,Taylor Fritz,3-6 7-5 7-6(1) 6-4
+20250119,Australian Open,R16,Alexander Zverev,Ugo Humbert,6-1 2-6 6-3 6-2
+20250119,Australian Open,R16,Novak Djokovic,Jiri Lehecka,6-3 6-4 7-6(4)
+20250120,Australian Open,R16,Ben Shelton,Gael Monfils,7-6(3) 6-7(3) 7-6(2)
+20250120,Australian Open,R16,Jannik Sinner,Holger Rune,6-3 3-6 6-3 6-2
+20250121,Australian Open,QF,Alexander Zverev,Tommy Paul,7-6(1) 7-6(0) 2-6 6-1
+20250121,Australian Open,QF,Novak Djokovic,Carlos Alcaraz,4-6 6-4 6-3 6-4
+20250122,Australian Open,QF,Jannik Sinner,Alex De Minaur,6-3 6-2 6-1
+20250122,Australian Open,QF,Ben Shelton,Lorenzo Sonego,6-4 7-5 4-6 7-6(4)
+20250124,Australian Open,SF,Jannik Sinner,Ben Shelton,7-6(2) 6-2 6-2
+20250124,Australian Open,SF,Alexander Zverev,Novak Djokovic,7-6(5)
+20250124,Australian Open Juniors,F,Henry Bernet,Benjamin Willwerth,6-3 6-4
+20250125,Oeiras 3 CH,R32,Adrian Andreev,Clement Chidekh,6-4 4-6 7-6(5)
+20250126,Australian Open,F,Jannik Sinner,Alexander Zverev,6-3 7-6(4) 6-3
+20250128,Montpellier,R32,Richard Gasquet,Adrian Mannarino,6-3 6-2
+20250128,Montpellier,R32,Tallon Griekspoor,Botic Van De Zandschulp,7-5 6-3
+20250129,Montpellier,R16,Andrey Rublev,Christopher Eubanks,6-4 6-3
+20250130,Montpellier,R16,Jesper De Jong,Flavio Cobolli,6-3 7-6(2)
+20250130,Montpellier,R16,Tallon Griekspoor,Richard Gasquet,6-3 3-6 7-5
+20250131,Montpellier,QF,Jesper De Jong,Tallon Griekspoor,7-6(5) 6-4
+20250131,Montpellier,QF,Andrey Rublev,Nikoloz Basilashvili,
+20250201,Montpellier,SF,Felix Auger Aliassime,Jesper De Jong,6-4 7-6(4)
+20250201,Montpellier,SF,Aleksandar Kovacevic,Andrey Rublev,7-5 6-4
+20250201,Davis Cup Qualifiers,RR,Ugo Humbert,Joao Fonseca,7-5 6-3
+20250201,Davis Cup Qualifiers,RR,Elmer Moller,Hamad Medjedovic,1-6 6-4 6-3
+20250202,Montpellier,F,Felix Auger Aliassime,Aleksandar Kovacevic,6-2 6-7(7) 7-6(2)
+20250203,Rotterdam,R32,Mattia Bellucci,Mees Rottgering,6-3 6-2
+20250203,Rotterdam,R32,Daniil Medvedev,Stan Wawrinka,6-7(8) 6-4 6-1
+20250203,Rotterdam,R32,Hubert Hurkacz,Flavio Cobolli,6-3 6-2
+20250204,Rotterdam,R32,Holger Rune,Lorenzo Sonego,7-6(4) 6-4
+20250204,Rotterdam,R32,Carlos Alcaraz,Botic Van De Zandschulp,7-6(3) 3-6 6-1
+20250204,Rotterdam,R32,Andrey Rublev,Zhizhen Zhang,6-3 6-4
+20250205,Rotterdam,R16,Hubert Hurkacz,Jiri Lehecka,7-5
+20250205,Rotterdam,R16,Mattia Bellucci,Daniil Medvedev,6-3 6-7(6) 6-3
+20250205,Chennai CH,R32,Oleksandr Ovcharenko,Zsombor Piros,7-6(4) 6-4
+20250205,Dallas,R32,Tomas Machac,Kei Nishikori,6-2 6-2
+20250205,Dallas,R32,Taylor Fritz,Arthur Rinderknech,6-4 6-2
+20250205,Rotterdam,R32,Tallon Griekspoor,Matteo Berrettini,6-3 6-7(2) 7-6(4)
+20250206,Rotterdam,R16,Carlos Alcaraz,Andrea Vavassori,6-2 6-1
+20250206,Rotterdam,R16,Andrey Rublev,Fabian Marozsan,7-6(2) 7-6(7)
+20250206,Rotterdam,R16,Stefanos Tsitsipas,Tallon Griekspoor,6-7(5) 7-6(6) 7-5
+20250206,Rotterdam,R16,Alex De Minaur,Jakub Mensik,6-4 6-4
+20250206,Dallas,R16,Casper Ruud,Michael Mmoh,6-1 6-4
+20250207,Rotterdam,QF,Hubert Hurkacz,Andrey Rublev,6-7(5) 6-3 6-4
+20250207,Dallas,QF,Denis Shapovalov,Tomas Machac,7-6(5) 6-0
+20250207,Rotterdam,QF,Mattia Bellucci,Stefanos Tsitsipas,6-4 6-2
+20250207,Rotterdam,QF,Carlos Alcaraz,Pedro Martinez,6-2 6-1
+20250208,Rotterdam,SF,Carlos Alcaraz,Hubert Hurkacz,6-4 6-7(5) 6-3
+20250208,Rotterdam,SF,Alex De Minaur,Mattia Bellucci,6-1 6-2
+20250208,Dallas,SF,Denis Shapovalov,Tommy Paul,7-5 6-3
+20250208,Dallas,SF,Casper Ruud,Jaume Munar,6-2 2-6 7-6(4)
+20250209,Dallas,F,Denis Shapovalov,Casper Ruud,7-6(5) 6-3
+20250209,Rotterdam,F,Carlos Alcaraz,Alex De Minaur,6-4 3-6 6-2
+20250210,Marseille,R32,Otto Virtanen,Sebastian Korda,6-7(3) 7-6(4) 6-4
+20250212,Buenos Aires,R16,Francisco Cerundolo,Juan Manuel Cerundolo,6-2 6-3
+20250212,Buenos Aires,R32,Joao Fonseca,Tomas Martin Etcheverry,6-3 6-3
+20250212,Buenos Aires,R32,Diego Schwartzman,Nicolas Jarry,7-6(10) 4-6 6-3
+20250212,Marseille,R16,Ugo Humbert,Alexander Bublik,7-6(7) 6-4
+20250213,Buenos Aires,R16,Pedro Martinez,Diego Schwartzman,6-2 6-2
+20250213,Marseille,R16,Zhizhen Zhang,Hubert Hurkacz,6-4 6-7(1) 6-3
+20250213,Marseille,R16,Daniil Medvedev,Pierre Hugues Herbert,6-2 6-4
+20250213,Buenos Aires,R16,Lorenzo Musetti,Corentin Moutet,6-2 6-3
+20250213,Buenos Aires,R16,Joao Fonseca,Federico Coria,2-6 6-4 6-2
+20250214,Buenos Aires,QF,Francisco Cerundolo,Alexander Zverev,3-6 6-3 6-2
+20250214,Marseille,QF,Ugo Humbert,Lorenzo Sonego,6-4 6-4
+20250214,Buenos Aires,QF,Joao Fonseca,Mariano Navone,3-6 6-4 7-5
+20250215,Buenos Aires,SF,Joao Fonseca,Laslo Djere,7-6(3) 5-7 6-1
+20250215,Marseille,SF,Ugo Humbert,Zizou Bergs,6-4 6-4
+20250216,Marseille,F,Ugo Humbert,Hamad Medjedovic,7-6(4) 6-4
+20250216,Delray Beach,F,Miomir Kecmanovic,Alejandro Davidovich Fokina,3-6 6-1 7-5
+20250216,Buenos Aires,F,Joao Fonseca,Francisco Cerundolo,6-4 7-6(1)
+20250217,Brazzaville CH,R32,Andrej Martin,Nicholas Alan Van Aken,6-0 6-0
+20250217,Doha,R32,Carlos Alcaraz,Marin Cilic,6-4 6-4
+20250218,Brazzaville CH,R32,Max Houkes,Kryce Didier Momo Kassa,6-0 6-0
+20250218,Doha,R32,Andrey Rublev,Alexander Bublik,6-3 6-4
+20250218,Doha,R32,Matteo Berrettini,Novak Djokovic,7-6(4) 6-2
+20250218,Doha,R32,Hamad Medjedovic,Stefanos Tsitsipas,7-6(6) 5-7 7-6(5)
+20250219,Doha,R16,Matteo Berrettini,Tallon Griekspoor,7-6(4) 6-7(6) 6-4
+20250219,Doha,R16,Jiri Lehecka,Fabian Marozsan,6-4 6-2
+20250219,Doha,R16,Andrey Rublev,Nuno Borges,6-3 6-4
+20250219,Doha,R16,Alex De Minaur,Botic Van De Zandschulp,6-4 6-4
+20250219,Doha,R16,Daniil Medvedev,Zizou Bergs,6-2 6-1
+20250219,Doha,R16,Carlos Alcaraz,Luca Nardi,6-1 4-6 6-3
+20250220,Doha,QF,Andrey Rublev,Alex De Minaur,6-1 3-6 7-6(8)
+20250220,Doha,QF,Jack Draper,Matteo Berrettini,4-6 6-4 6-3
+20250220,Doha,QF,Jiri Lehecka,Carlos Alcaraz,6-3 3-6 6-4
+20250221,Rio de Janeiro,QF,Francisco Comesana,Alexander Zverev,4-6 6-3 6-4
+20250222,Doha,F,Andrey Rublev,Jack Draper,7-5 5-7 6-1
+20250222,Rio de Janeiro,SF,Alexandre Muller,Francisco Comesana,7-5 6-7(3) 6-3
+20250223,Rio de Janeiro,F,Sebastian Baez,Alexandre Muller,6-2 6-3
+20250223,Glasgow CH,F,Nicolai Budkov Kjaer,Viktor Durasovic,6-4 6-3
+20250224,Dubai,R32,Giovanni Mpetshi Perricard,Zhizhen Zhang,6-3 7-6(3)
+20250224,Acapulco,R32,Casper Ruud,Arthur Rinderknech,6-4 6-3
+20250224,Lugano CH,R32,Mees Rottgering,Beibit Zhukayev,4-6 7-6(10) 7-6(5)
+20250225,Acapulco,R32,Rodrigo Pacheco Mendez,Aleksandar Vukic,7-5 4-6 7-6(4)
+20250225,Dubai,R32,Matteo Berrettini,Gael Monfils,7-5 6-4
+20250225,Dubai,R32,Tallon Griekspoor,Roman Safiullin,5-7 7-6(4) 7-6(1)
+20250225,Dubai,R32,Ugo Humbert,Jiri Lehecka,6-3 6-0
+20250226,Dubai,R16,Daniil Medvedev,Giovanni Mpetshi Perricard,6-4 6-4
+20250226,Acapulco,R16,Learner Tien,Alexander Zverev,6-3 6-4
+20250226,Dubai,R16,Matteo Berrettini,Christopher Oconnell,7-6(2) 6-2
+20250227,Dubai,QF,Tallon Griekspoor,Daniil Medvedev,2-6 7-6(7) 7-5
+20250227,Dubai,QF,Stefanos Tsitsipas,Matteo Berrettini,7-6(5) 1-6 6-4
+20250228,Lugano CH,QF,Murphy Cassone,Luca Van Assche,7-6(2) 0-6 7-6(4)
+20250228,Dubai,SF,Stefanos Tsitsipas,Tallon Griekspoor,6-4 6-4
+20250301,Acapulco,F,Tomas Machac,Alejandro Davidovich Fokina,7-6(6) 6-2
+20250301,Dubai,F,Stefanos Tsitsipas,Felix Auger Aliassime,6-3 6-3
+20250302,Santiago,F,Laslo Djere,Sebastian Baez,6-4 3-6 7-5
+20250304,Hersonissos CH,R32,Stefanos Sakellaridis,Juan Carlos Prado Angelo,6-2 6-4
+20250305,Indian Wells Masters,R128,Tallon Griekspoor,Miomir Kecmanovic,6-7(5) 6-4 6-3
+20250306,Indian Wells Masters,R128,Botic Van De Zandschulp,Nick Kyrgios,7-6(7)
+20250306,Indian Wells Masters,R128,David Goffin,Lorenzo Sonego,6-4 7-5
+20250306,Indian Wells Masters,R128,Joao Fonseca,Jacob Fearnley,6-2 1-6 6-3
+20250307,Indian Wells Masters,R64,Tallon Griekspoor,Alexander Zverev,4-6 7-6(5) 7-6(4)
+20250307,Indian Wells Masters,R64,Stefanos Tsitsipas,Thiago Seyboth Wild,6-2 6-4
+20250307,Indian Wells Masters,R64,Lorenzo Musetti,Roman Safiullin,7-5 5-7 6-2
+20250307,Indian Wells Masters,R64,Arthur Fils,Gabriel Diallo,6-2 6-2
+20250307,Indian Wells Masters,R64,Marcos Giron,Casper Ruud,7-6(4) 3-6 6-2
+20250308,Indian Wells Masters,R64,Carlos Alcaraz,Quentin Halys,6-4 6-2
+20250308,Indian Wells Masters,R64,Botic Van De Zandschulp,Novak Djokovic,6-2 3-6 6-1
+20250308,Indian Wells Masters,R64,Jack Draper,Joao Fonseca,6-4 6-0
+20250308,Indian Wells Masters,R64,Hubert Hurkacz,Hugo Gaston,7-5 6-3
+20250308,Indian Wells Masters,R64,Matteo Arnaldi,Andrey Rublev,6-4 7-5
+20250309,Kigali CH,F,Valentin Royer,Guy Den Ouden,6-2 6-4
+20250309,Indian Wells Masters,R32,Arthur Fils,Lorenzo Musetti,3-6 7-6(4) 6-3
+20250309,Indian Wells Masters,R32,Tallon Griekspoor,Giovanni Mpetshi Perricard,7-6(3) 6-3
+20250309,Indian Wells Masters,R32,Yosuke Watanuki,Frances Tiafoe,6-4 7-6(6)
+20250309,Thionville CH,F,Borna Coric,Arthur Bouquier,6-4 6-4
+20250310,Indian Wells Masters,R32,Brandon Nakashima,Matteo Arnaldi,6-2 6-4
+20250310,Hersonissos CH,R32,Stefanos Sakellaridis,Nikolas Sanchez Izquierdo,7-5 6-3
+20250310,Indian Wells Masters,R32,Grigor Dimitrov,Gael Monfils,7-6(4) 4-6 7-6(2)
+20250310,Indian Wells Masters,R32,Carlos Alcaraz,Denis Shapovalov,6-2 6-4
+20250310,Indian Wells Masters,R32,Francisco Cerundolo,Botic Van De Zandschulp,6-3 6-4
+20250310,Indian Wells Masters,R32,Alex De Minaur,Hubert Hurkacz,6-4 6-0
+20250311,Indian Wells Masters,R16,Arthur Fils,Marcos Giron,6-2 2-6 6-3
+20250311,Indian Wells Masters,R16,Holger Rune,Stefanos Tsitsipas,6-4 6-4
+20250311,Indian Wells Masters,R16,Tallon Griekspoor,Yosuke Watanuki,7-6(4) 6-1
+20250312,Indian Wells Masters,R16,Carlos Alcaraz,Grigor Dimitrov,6-1 6-1
+20250312,Cap Cana CH,R32,Nicolas Mejia,Thiago Seyboth Wild,4-6 6-3 6-2
+20250312,Indian Wells Masters,R16,Jack Draper,Taylor Fritz,7-5 6-4
+20250312,Indian Wells Masters,R16,Daniil Medvedev,Tommy Paul,6-4 6-0
+20250313,Indian Wells Masters,QF,Daniil Medvedev,Arthur Fils,6-4 2-6 7-6(7)
+20250313,Indian Wells Masters,QF,Holger Rune,Tallon Griekspoor,5-7 6-0 6-3
+20250313,Indian Wells Masters,QF,Carlos Alcaraz,Francisco Cerundolo,6-3 7-6(4)
+20250314,Phoenix CH,QF,Alexander Bublik,Corentin Moutet,2-6 7-6(4) 7-5
+20250314,Indian Wells Masters,QF,Jack Draper,Ben Shelton,6-4 7-5
+20250315,Indian Wells Masters,SF,Jack Draper,Carlos Alcaraz,6-1 0-6 6-4
+20250315,Indian Wells Masters,SF,Holger Rune,Daniil Medvedev,7-5 6-4
+20250316,Phoenix CH,F,Joao Fonseca,Alexander Bublik,7-6(5) 7-6(0)
+20250316,Cherbourg CH,F,Pierre Hugues Herbert,Jelle Sels,6-3 6-4
+20250316,Indian Wells Masters,F,Jack Draper,Holger Rune,6-2 6-2
+20250319,Miami Masters,R128,Federico Cina,Francisco Comesana,7-6(4) 7-6(2)
+20250319,Miami Masters,R128,Alexander Bublik,Sebastian Baez,6-3 6-4
+20250319,Miami Masters,R128,Gael Monfils,Fabian Marozsan,6-3 3-6 6-4
+20250320,Miami Masters,R128,Joao Fonseca,Learner Tien,6-7(1) 6-3 6-4
+20250320,Miami Masters,R128,Coleman Wong,Daniel Altmaier,6-4 6-3
+20250320,Merida CH,R16,Juan Carlos Prado Angelo,Dmitry Popko,7-5 1-6 7-6(4)
+20250320,Miami Masters,R128,Yoshihito Nishioka,Hugo Gaston,4-6
+20250321,Miami Masters,R64,David Goffin,Carlos Alcaraz,5-7 6-4 6-3
+20250321,Miami Masters,R64,Casper Ruud,Miomir Kecmanovic,3-6 6-4 6-4
+20250321,Miami Masters,R64,Grigor Dimitrov,Federico Cina,6-1 6-4
+20250321,Miami Masters,R64,Jaume Munar,Daniil Medvedev,6-2 6-3
+20250321,Miami Masters,R64,Novak Djokovic,Rinky Hijikata,6-0 7-6(1)
+20250322,Miami Masters,R64,Tomas Machac,Matteo Arnaldi,6-2 1-6 6-3
+20250322,Miami Masters,R64,Joao Fonseca,Ugo Humbert,6-4 6-3
+20250322,Miami Masters,R64,Reilly Opelka,Holger Rune,4-6 6-3 7-6(5)
+20250322,Miami Masters,R64,Coleman Wong,Ben Shelton,7-6(3) 2-6 7-6(5)
+20250322,Miami Masters,R64,Jakub Mensik,Jack Draper,7-6(2) 7-6(3)
+20250323,Murcia CH,F,Carlos Taberner,Jesper De Jong,7-6(3) 4-6 6-2
+20250323,Miami Masters,R32,Casper Ruud,Alejandro Tabilo,6-4 7-6(4)
+20250323,Miami Masters,R32,Gael Monfils,Jaume Munar,7-5 5-7 7-6(1)
+20250324,Miami Masters,R32,Alex De Minaur,Joao Fonseca,5-7 7-5 6-3
+20250324,Miami Masters,R32,Taylor Fritz,Denis Shapovalov,7-5 6-3
+20250325,Miami Masters,R16,Novak Djokovic,Lorenzo Musetti,6-2 6-2
+20250326,Miami Masters,QF,Grigor Dimitrov,Francisco Cerundolo,6-7(6) 6-4 7-6(3)
+20250326,Miami Masters,R16,Arthur Fils,Alexander Zverev,3-6 6-3 6-4
+20250327,Miami Masters,QF,Jakub Mensik,Arthur Fils,7-6(5) 6-1
+20250327,Miami Masters,QF,Novak Djokovic,Sebastian Korda,6-3 7-6(4)
+20250328,Miami Masters,SF,Jakub Mensik,Taylor Fritz,7-6(4) 4-6 7-6(4)
+20250328,Miami Masters,SF,Novak Djokovic,Grigor Dimitrov,6-2 6-3
+20250328,Miami Masters,QF,Taylor Fritz,Matteo Berrettini,7-5 6-7(7) 7-5
+20250329,Miami Masters,F,Jakub Mensik,Novak Djokovic,7-6(4) 7-6(4)
+20250329,Girona CH,SF,Marin Cilic,Jesper De Jong,6-4 6-4
+20250330,Girona CH,F,Marin Cilic,Elmer Moller,6-3 6-4
+20250401,Marrakech,R32,Jesper De Jong,Elliot Benchetrit,7-5 6-1
+20250404,Campinas CH,QF,Alvaro Guillen Meza,Juan Carlos Prado Angelo,6-2 2-6 6-1
+20250404,Marrakech,QF,Tallon Griekspoor,Mattia Bellucci,6-3 6-4
+20250405,Houston,SF,Jenson Brooksby,Tommy Paul,7-6(5) 3-6 7-6(6)
+20250405,Marrakech,SF,Tallon Griekspoor,Kamil Majchrzak,7-5 7-6(3)
+20250406,Marrakech,F,Luciano Darderi,Tallon Griekspoor,7-6(3) 7-6(4)
+20250406,Houston,F,Jenson Brooksby,Frances Tiafoe,6-4 6-2
+20250406,Bucharest,F,Flavio Cobolli,Sebastian Baez,6-4 6-4
+20250407,Monte Carlo Masters,R64,Daniil Medvedev,Karen Khachanov,7-5 4-6 6-4
+20250407,Monte Carlo Masters,R64,Jiri Lehecka,Sebastian Korda,6-3 7-6(7)
+20250407,Monte Carlo Masters,R64,Alejandro Tabilo,Stan Wawrinka,1-6 7-5 7-5
+20250408,Monte Carlo Masters,R32,Matteo Berrettini,Alexander Zverev,2-6 6-3 7-5
+20250408,Monte Carlo Masters,R32,Stefanos Tsitsipas,Jordan Thompson,4-6 6-4 6-2
+20250409,Monte Carlo Masters,R32,Casper Ruud,Roberto Bautista Agut,6-2 6-1
+20250409,Monte Carlo Masters,R32,Arthur Fils,Flavio Cobolli,6-2 6-4
+20250409,Monte Carlo Masters,R32,Lorenzo Musetti,Jiri Lehecka,1-6 7-5 6-2
+20250409,Monte Carlo Masters,R32,Alejandro Tabilo,Novak Djokovic,6-3 6-4
+20250409,Monte Carlo Masters,R32,Carlos Alcaraz,Francisco Cerundolo,3-6 6-0 6-1
+20250410,Monte Carlo Masters,R16,Alexei Popyrin,Casper Ruud,6-4 3-6 7-5
+20250410,Monte Carlo Masters,R16,Lorenzo Musetti,Matteo Berrettini,6-3 6-3
+20250410,Monte Carlo Masters,R16,Alex De Minaur,Daniil Medvedev,6-2 6-2
+20250410,Monte Carlo Masters,R16,Arthur Fils,Andrey Rublev,6-2 6-3
+20250411,Monte Carlo Masters,QF,Alejandro Davidovich Fokina,Alexei Popyrin,6-3 6-2
+20250411,Monte Carlo Masters,QF,Carlos Alcaraz,Arthur Fils,4-6 7-5 6-3
+20250411,Monte Carlo Masters,QF,Lorenzo Musetti,Stefanos Tsitsipas,1-6 6-3 6-4
+20250412,Monte Carlo Masters,SF,Carlos Alcaraz,Alejandro Davidovich Fokina,7-6(2) 6-4
+20250412,Monte Carlo Masters,SF,Lorenzo Musetti,Alex De Minaur,1-6 6-4 7-6(4)
+20250413,Monte Carlo Masters,F,Carlos Alcaraz,Lorenzo Musetti,3-6 6-1 6-0
+20250415,Barcelona,R32,Stefanos Tsitsipas,Reilly Opelka,6-2 6-2
+20250416,Barcelona,R16,Arthur Fils,Pedro Martinez,6-3 6-2
+20250417,Barcelona,R16,Carlos Alcaraz,Laslo Djere,6-2 6-4
+20250418,Barcelona,QF,Holger Rune,Casper Ruud,6-4 6-2
+20250419,Munich,SF,Ben Shelton,Francisco Cerundolo,2-6 7-6(7) 6-4
+20250419,Barcelona,SF,Carlos Alcaraz,Arthur Fils,6-2 6-4
+20250420,Barcelona,F,Holger Rune,Carlos Alcaraz,7-6(6) 6-2
+20250420,Munich,F,Alexander Zverev,Ben Shelton,6-2 6-4
+20250423,Madrid Masters,R128,Mariano Navone,Giovanni Mpetshi Perricard,6-4 6-4
+20250424,Madrid Masters,R128,Joao Fonseca,Elmer Moller,6-2 6-3
+20250425,Madrid Masters,R64,Francisco Comesana,Arthur Fils,7-6(4) 6-4
+20250425,Madrid Masters,R64,Taylor Fritz,Christopher Oconnell,6-1 6-4
+20250425,Madrid Masters,R64,Benjamin Bonzi,Hubert Hurkacz,6-4 7-5
+20250426,Madrid Masters,R64,Tommy Paul,Joao Fonseca,7-6(7) 7-6(3)
+20250426,Madrid Masters,R64,Jacob Fearnley,Tomas Machac,1-6 6-3 6-2
+20250426,Madrid Masters,R64,Matteo Berrettini,Marcos Giron,6-7(3) 7-6(6) 6-1
+20250426,Madrid Masters,R64,Matteo Arnaldi,Novak Djokovic,6-3 6-4
+20250427,Madrid Masters,R32,Alexander Bublik,Andrey Rublev,6-4 0-6 6-4
+20250427,Madrid Masters,R32,Jakub Mensik,Ben Shelton,6-1 6-4
+20250427,Madrid Masters,R32,Casper Ruud,Sebastian Korda,6-3 6-3
+20250429,Madrid Masters,R32,Lorenzo Musetti,Stefanos Tsitsipas,7-5 7-6(3)
+20250429,Madrid Masters,R16,Jakub Mensik,Alexander Bublik,6-3 6-2
+20250429,Madrid Masters,R16,Casper Ruud,Taylor Fritz,7-5 6-4
+20250429,Madrid Masters,R16,Francisco Cerundolo,Alexander Zverev,7-5 6-3
+20250430,Madrid Masters,R16,Lorenzo Musetti,Alex De Minaur,6-4 6-2
+20250501,Madrid Masters,QF,Casper Ruud,Daniil Medvedev,6-3 7-5
+20250501,Madrid Masters,QF,Lorenzo Musetti,Gabriel Diallo,6-4 6-3
+20250501,Madrid Masters,QF,Francisco Cerundolo,Jakub Mensik,3-6 7-6(5) 6-2
+20250502,Madrid Masters,SF,Jack Draper,Lorenzo Musetti,6-3 7-6(4)
+20250502,Madrid Masters,SF,Casper Ruud,Francisco Cerundolo,6-4 7-5
+20250504,Aix En Provence CH,F,Borna Coric,Stan Wawrinka,6-7(5) 6-3 7-6(4)
+20250504,Madrid Masters,F,Casper Ruud,Jack Draper,7-5 3-6 6-4
+20250507,Rome Masters,R128,Tallon Griekspoor,Miomir Kecmanovic,4-6 6-3 6-0
+20250508,Rome Masters,R128,Fabian Marozsan,Joao Fonseca,6-3 7-6(4)
+20250508,Rome Masters,R128,Jesper De Jong,Alexander Shevchenko,6-2 6-4
+20250509,Rome Masters,R64,Carlos Alcaraz,Dusan Lajovic,6-3 6-3
+20250509,Rome Masters,R64,Holger Rune,Francisco Comesana,3-6 6-3 6-4
+20250509,Rome Masters,R64,Vilius Gaubas,Denis Shapovalov,6-3 6-4
+20250509,Rome Masters,R64,Arthur Fils,Tallon Griekspoor,6-2 6-2
+20250509,Rome Masters,R64,Lorenzo Musetti,Otto Virtanen,6-3 6-2
+20250510,Rome Masters,R64,Matteo Berrettini,Jacob Fearnley,6-4 7-6(0)
+20250510,Rome Masters,R64,Hubert Hurkacz,Pedro Martinez,6-1 7-5
+20250510,Rome Masters,R64,Casper Ruud,Alexander Bublik,6-4 4-6 6-3
+20250510,Rome Masters,R64,Jaume Munar,Ben Shelton,6-2 6-1
+20250511,Prague CH,F,Filip Misolic,Guy Den Ouden,6-4 6-0
+20250511,Rome Masters,R32,Corentin Moutet,Holger Rune,7-5 5-7 7-6(4)
+20250511,Rome Masters,R32,Arthur Fils,Stefanos Tsitsipas,2-6 6-4 6-2
+20250511,Rome Masters,R32,Jack Draper,Vit Kopriva,6-4 6-3
+20250512,Rome Masters,R32,Hubert Hurkacz,Marcos Giron,6-3 1-6 6-1
+20250513,Rome Masters,R16,Hubert Hurkacz,Jakub Mensik,7-6(5) 4-6 7-6(5)
+20250514,Rome Masters,QF,Carlos Alcaraz,Jack Draper,6-4 6-4
+20250514,Rome Masters,QF,Lorenzo Musetti,Alexander Zverev,7-6(1) 6-4
+20250514,Rome Masters,R16,Casper Ruud,Jaume Munar,6-3 6-4
+20250515,Rome Masters,QF,Jannik Sinner,Casper Ruud,6-0 6-1
+20250515,Rome Masters,QF,Tommy Paul,Hubert Hurkacz,7-6(4) 6-3
+20250515,Rome Masters,R16,Jannik Sinner,Francisco Cerundolo,7-6(2) 6-3
+20250516,Rome Masters,SF,Carlos Alcaraz,Lorenzo Musetti,6-3 7-6(4)
+20250516,Rome Masters,SF,Jannik Sinner,Tommy Paul,1-6 6-0 6-3
+20250518,Rome Masters,F,Carlos Alcaraz,Jannik Sinner,7-6(5) 6-1
+20250520,Hamburg,R32,Tomas Martin Etcheverry,Francisco Comesana,7-6(4) 6-3
+20250520,Hamburg,R32,Felix Auger Aliassime,Daniel Altmaier,6-3 6-3
+20250520,Geneva,R32,Hubert Hurkacz,Arthur Cazaux,6-3 6-4
+20250521,Geneva,R16,Hubert Hurkacz,Arthur Rinderknech,6-4 6-1
+20250522,Geneva,QF,Hubert Hurkacz,Taylor Fritz,6-3 7-6(5)
+20250523,Geneva,SF,Hubert Hurkacz,Sebastian Ofner,6-3 6-4
+20250523,Roland Garros,Q3,Maximilian Marterer,Federico Arnaboldi,6-4 6-1
+20250524,Geneva,F,Novak Djokovic,Hubert Hurkacz,5-7 7-6(2) 7-6(2)
+20250524,Tbilisi CH,F,Saba Purtseladze,Federico Cina,7-6(5) 6-4
+20250524,Hamburg,F,Flavio Cobolli,Andrey Rublev,6-2 6-4
+20250525,Roland Garros,R128,Lorenzo Musetti,Yannick Hanfmann,7-5 6-2 6-0
+20250525,Roland Garros,R128,Daniel Elahi Galan,Valentin Royer,7-6(6) 6-3 3-6 6-7(4) 7-5
+20250525,Roland Garros,R128,Tommy Paul,Elmer Moller,6-7(5) 6-2 6-3 6-1
+20250525,Roland Garros,R128,Mariano Navone,Brandon Nakashima,7-6(2) 4-6 6-1 6-2
+20250525,Roland Garros,R128,Giovanni Mpetshi Perricard,Zizou Bergs,4-6 6-3 7-6(5) 6-4
+20250525,Roland Garros,R128,Ben Shelton,Lorenzo Sonego,6-4 4-6 3-6 6-2 6-3
+20250525,Roland Garros,R128,Nuno Borges,Kyrian Jacquet,3-6 6-7(3) 6-4 6-3 6-3
+20250526,Roland Garros,R128,Daniel Altmaier,Taylor Fritz,7-5 3-6 6-3 6-1
+20250526,Roland Garros,R128,Hugo Gaston,Ugo Blanchet,2-6 6-0 2-6 6-3 6-4
+20250526,Roland Garros,R128,Richard Gasquet,Terence Atmane,6-2 2-6 6-3 6-0
+20250526,Roland Garros,R128,Holger Rune,Roberto Bautista Agut,6-7(4) 6-4 6-3 6-2
+20250526,Roland Garros,R128,Alejandro Tabilo,Arthur Cazaux,5-7 6-3 6-2 1-6 6-3
+20250526,Roland Garros,R128,Casper Ruud,Albert Ramos,6-3 6-4 6-2
+20250526,Roland Garros,R128,Carlos Alcaraz,Giulio Zeppieri,6-3 6-4 6-2
+20250526,Roland Garros,R128,Arthur Fils,Nicolas Jarry,6-3 6-4 6-7(6) 6-3
+20250526,Roland Garros,R128,Jannik Sinner,Arthur Rinderknech,6-4 6-3 7-5
+20250527,Roland Garros,R128,Cameron Norrie,Daniil Medvedev,7-5 6-3 4-6 1-6 7-5
+20250527,Roland Garros,R128,Joao Fonseca,Hubert Hurkacz,6-2 6-4 6-2
+20250527,Roland Garros,R128,Matteo Arnaldi,Felix Auger Aliassime,5-7 2-6 6-3 6-4 6-2
+20250527,Roland Garros,R128,Novak Djokovic,Mackenzie Mcdonald,6-3 6-3 6-3
+20250528,Roland Garros,R64,Matteo Gigante,Stefanos Tsitsipas,6-4 5-7 6-2 6-4
+20250528,Roland Garros,R64,Lorenzo Musetti,Daniel Elahi Galan,6-4 6-0 6-4
+20250529,Roland Garros,R64,Tallon Griekspoor,Gabriel Diallo,7-5 7-6(3) 1-6 6-3
+20250529,Roland Garros,R64,Jannik Sinner,Richard Gasquet,6-3 6-0 6-4
+20250529,Roland Garros,R64,Arthur Fils,Jaume Munar,7-6(3) 7-6(4) 2-6 0-6 6-4
+20250529,Roland Garros,R64,Alexander Bublik,Alex De Minaur,2-6 2-6 6-4 6-3 6-2
+20250530,Roland Garros,R32,Lorenzo Musetti,Mariano Navone,4-6 6-4 6-3 6-2
+20250530,Roland Garros,R32,Frances Tiafoe,Sebastian Korda,7-6(6) 6-3 6-4
+20250530,Roland Garros,R32,Tommy Paul,Karen Khachanov,6-3 3-6 7-6(7) 3-6 6-3
+20250531,Roland Garros,R32,Jannik Sinner,Jiri Lehecka,6-0 6-1 6-2
+20250531,Roland Garros,R32,Jack Draper,Joao Fonseca,6-2 6-4 6-2
+20250531,Roland Garros,R32,Novak Djokovic,Filip Misolic,6-3 6-4 6-2
+20250531,Roland Garros,R32,Tallon Griekspoor,Ethan Quinn,4-6 6-1 6-7(2) 6-1 6-4
+20250601,Chisinau CH,F,Clement Chidekh,Ilia Simakin,7-6(6) 7-5
+20250601,Roland Garros,R16,Lorenzo Musetti,Holger Rune,7-5 3-6 6-3 6-2
+20250601,Roland Garros,R16,Frances Tiafoe,Daniel Altmaier,6-3 6-4 7-6(4)
+20250601,Roland Garros,R16,Carlos Alcaraz,Ben Shelton,7-6(8) 6-3 4-6 6-4
+20250602,Roland Garros,R16,Alexander Bublik,Jack Draper,5-7 6-3 6-2 6-4
+20250602,Roland Garros,R16,Jannik Sinner,Andrey Rublev,6-1 6-3 6-4
+20250602,Roland Garros,R16,Novak Djokovic,Cameron Norrie,6-2 6-3 6-2
+20250603,Roland Garros,QF,Carlos Alcaraz,Tommy Paul,6-0 6-1 6-4
+20250603,Roland Garros,QF,Lorenzo Musetti,Frances Tiafoe,6-2 4-6 7-5 6-2
+20250604,Roland Garros,QF,Jannik Sinner,Alexander Bublik,6-1 7-5 6-0
+20250604,Roland Garros,QF,Novak Djokovic,Alexander Zverev,4-6 6-3 6-2 6-4
+20250606,Roland Garros,SF,Carlos Alcaraz,Lorenzo Musetti,4-6 7-6(3) 6-0
+20250606,Roland Garros,SF,Jannik Sinner,Novak Djokovic,6-4 7-5 7-6(3)
+20250607,Roland Garros Juniors,F,Niels Mcdonald,Max Schoenhaus,6-7(5) 6-0 6-3
+20250608,Roland Garros,F,Carlos Alcaraz,Jannik Sinner,4-6 6-7(4) 6-4 7-6(3) 7-6(2)
+20250609,Stuttgart,R32,Jiri Lehecka,Benjamin Bonzi,6-4 6-4
+20250609,Stuttgart,R32,Brandon Nakashima,Jacob Fearnley,4-6 7-6(4) 6-1
+20250610,ITF Martos,Q2,Preston Stearns,Alejandro Lopez Escribano,7-6(5) 6-2
+20250611,Stuttgart,R16,Taylor Fritz,Quentin Halys,6-3 7-6(6)
+20250611,s Hertogenbosch,R32,Hubert Hurkacz,Roberto Bautista Agut,7-6(2) 6-4
+20250612,Stuttgart,R16,Felix Auger Aliassime,Giovanni Mpetshi Perricard,6-4 6-4
+20250613,Stuttgart,QF,Ben Shelton,Jiri Lehecka,6-4 6-4
+20250614,s Hertogenbosch,SF,Zizou Bergs,Reilly Opelka,6-1 6-4
+20250614,Stuttgart,SF,Taylor Fritz,Felix Auger Aliassime,6-4 7-6(5)
+20250615,Santa Fe CH,F,Joao Lucas Reis Da Silva,Lautaro Midon,6-4 6-3
+20250615,s Hertogenbosch,F,Gabriel Diallo,Zizou Bergs,7-5 7-6(8)
+20250615,Stuttgart,F,Taylor Fritz,Alexander Zverev,6-3 7-6(0)
+20250616,Halle,R32,Daniil Medvedev,Daniel Altmaier,6-3 6-3
+20250617,Queens Club,R32,Carlos Alcaraz,Adam Walton,6-4 7-6(4)
+20250618,Halle,R16,Daniil Medvedev,Quentin Halys,6-2 7-5
+20250619,Queens Club,R16,Carlos Alcaraz,Jaume Munar,6-4 6-7(7) 7-5
+20250619,Queens Club,R16,Jacob Fearnley,Corentin Moutet,6-3 2-6 6-2
+20250619,Queens Club,R16,Jiri Lehecka,Gabriel Diallo,6-4 6-2
+20250619,Halle,R16,Alexander Bublik,Jannik Sinner,3-6 6-3 6-4
+20250620,Queens Club,QF,Jiri Lehecka,Jacob Fearnley,7-5 6-2
+20250620,Queens Club,QF,Carlos Alcaraz,Arthur Rinderknech,7-5 6-4
+20250621,Queens Club,SF,Carlos Alcaraz,Roberto Bautista Agut,6-4 6-4
+20250621,Halle,SF,Daniil Medvedev,Alexander Zverev,7-6(3) 6-7(1) 6-4
+20250622,Queens Club,F,Carlos Alcaraz,Jiri Lehecka,7-5 6-7(5) 6-2
+20250622,Halle,F,Alexander Bublik,Daniil Medvedev,6-3 7-6(4)
+20250623,Eastbourne,R32,Joao Fonseca,Zizou Bergs,6-7(8) 6-0 6-3
+20250624,Eastbourne,R32,Nuno Borges,Jack Pinnington Jones,4-6 6-3 6-3
+20250625,Mallorca,R16,Learner Tien,Ben Shelton,6-4 7-6(2)
+20250627,Mallorca,SF,Corentin Moutet,Alex Michelsen,6-4 7-6(3)
+20250627,Eastbourne,R16,Taylor Fritz,Joao Fonseca,6-3 6-7(5) 7-5
+20250628,Eastbourne,F,Taylor Fritz,Jenson Brooksby,7-5 6-1
+20250628,Mallorca,F,Tallon Griekspoor,Corentin Moutet,7-5 7-6(3)
