@@ -6,18 +6,6 @@ A tennis match prediction system using Elo ratings to forecast match outcomes.
 
 This project builds an Elo rating system for ATP tennis players and uses it to predict match winners. The system calculates both overall and surface-specific (Hard, Clay, Grass) Elo ratings.
 
-## Project Structure
-
-- `data/processed/` - Processed match data and Elo ratings
-  - `player_elo_ratings.csv` - Player Elo ratings (overall and by surface)
-  - `atp_matches_2025.csv` - Validation dataset
-  - `wimbledon_2025.csv` - Test dataset
-  - `wimbledon_predictions.csv` - Generated predictions
-
-- `notebooks/` - Jupyter notebooks for analysis
-  - `01_elo_calculation.ipynb` - Elo rating calculation
-  - `02_predictions.ipynb` - Match prediction and evaluation
-
 ## Features
 
 - **Elo Rating System**: Calculates player ratings based on match history
@@ -40,5 +28,6 @@ The model is evaluated on:
 
 ## Future Improvements
 
-<!-- Add your planned improvements here -->
+1. Create frontend for custom tournament/head-to-head predictions and elo charts
+2. Add features and use XGBoost to train model
 
