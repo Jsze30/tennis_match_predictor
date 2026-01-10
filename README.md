@@ -23,6 +23,7 @@ This project builds an Elo rating system for ATP tennis players and uses it to p
 ## Results
 
 The model is evaluated on:
+
 - **Validation Set**: ATP 2025 matches
 - **Test Set**: Wimbledon 2025 matches (using both overall and grass-specific Elo)
 
@@ -30,4 +31,3 @@ The model is evaluated on:
 
 1. Create frontend for custom tournament/head-to-head predictions and elo charts
 2. Add features and use XGBoost to train model
-
